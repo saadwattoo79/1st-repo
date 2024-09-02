@@ -1,0 +1,8 @@
+html notes
+        in paragraph tag
+       (strong tag is used for bold the letter <strong><strong/strong>
+        (em tag is used to convert the text in to attalic font 
+         (br tag is used for line break in paragrapg
+         (hr tag is used for the horizantel row in the paragraph\
+          (u tag,s tag ,del tag,b tag)
+soure unsplash
